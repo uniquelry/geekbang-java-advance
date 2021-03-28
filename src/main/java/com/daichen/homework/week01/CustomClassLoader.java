@@ -1,4 +1,4 @@
-package com.daichen.week01;
+package com.daichen.homework.week01;
 
 import java.io.FileInputStream;
 import java.io.IOException;
